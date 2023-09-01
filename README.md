@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on certifying myself with AZ-400 (Azure DevOps engineer)
+- 🌱 I’m currently learning about medical logistics
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Sharks existed before trees did
+
 <!--
 **stensones/stensones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
